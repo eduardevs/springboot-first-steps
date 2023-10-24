@@ -1,0 +1,12 @@
+not working,
+dependency problem
+
+Requirements :
+using h2 database from maven packages.
+
+
+Bug: 
+Stop running after launching the snapshot
+
+Description :
+Using repository, and running java -jar <snapshot> is buggy and stops running

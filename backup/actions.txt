@@ -1,0 +1,1 @@
+Make the docker set up in a docker-compose with mysql connection and springboot
